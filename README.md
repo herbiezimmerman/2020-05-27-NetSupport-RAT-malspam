@@ -1,4 +1,4 @@
-# 2020-05-27-Netwire-malspam
+# 2020-05-27-NetSupport-RAT-malspam
 
 There are 2 Gists for this as well that are the obfuscated PoSH script and another that is the deobfuscated PoSh script. Those can be found here:
 
